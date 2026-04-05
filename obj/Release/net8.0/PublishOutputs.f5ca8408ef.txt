@@ -1,0 +1,2 @@
+C:\Users\lukas\RiderProjects\Feuerwehr\FFRastenfeld\publish\emcc-props.json
+C:\Users\lukas\RiderProjects\Feuerwehr\FFRastenfeld\publish\web.config
